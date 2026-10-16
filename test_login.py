@@ -5,7 +5,7 @@
     assert username == "test_user"
     assert password == "test_password"
 
-    print("Login test passed!")
+    print("Login test passed successfully after update!")
 
 
 if __name__ == "__main__":
